@@ -4,7 +4,7 @@ Best Plugins and Themes to use with BetterDiscord, all in one place ;). All cred
 How to use:
 1. Have BetterDiscord installed: http://betterdiscord.net/
 2. Download plugins and themes.
-3. Copy folders in directory: users/usr/Roaming/BetterDiscord
+3. Copy folders in directory: users/usr/Roaming/BetterDiscord or to BetterDiscord directory if not on windows.
 4. Restart discord if its open.
 5. Go to User Settings >> BettetDiscord >> Plugins/Themes to manage your new plugins and themes.
 6. enjoy :3
